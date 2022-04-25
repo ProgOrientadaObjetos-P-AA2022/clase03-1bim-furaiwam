@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EjerciciosClase/EjerciciosClase.iml" filepath="$PROJECT_DIR$/EjerciciosClase/EjerciciosClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManejoClasesPaquetesEjemplos/EjerciciosClaseTres/EjerciciosClaseTres.iml" filepath="$PROJECT_DIR$/ManejoClasesPaquetesEjemplos/EjerciciosClaseTres/EjerciciosClaseTres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManejoClasesPaquetesEjemplos/EjerciciosClaseTres02/EjerciciosClaseTres02.iml" filepath="$PROJECT_DIR$/ManejoClasesPaquetesEjemplos/EjerciciosClaseTres02/EjerciciosClaseTres02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManejoClasesPaquetesEjemplos/EjerciciosClaseTres03/EjerciciosClaseTres03.iml" filepath="$PROJECT_DIR$/ManejoClasesPaquetesEjemplos/EjerciciosClaseTres03/EjerciciosClaseTres03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManejoClasesPaquetesEjemplos/EjerciciosClaseTres04/EjerciciosClaseTres04.iml" filepath="$PROJECT_DIR$/ManejoClasesPaquetesEjemplos/EjerciciosClaseTres04/EjerciciosClaseTres04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManejoClases/ManejoClases.iml" filepath="$PROJECT_DIR$/ManejoClases/ManejoClases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManejoClasesObjetos/ManejoClasesObjetos.iml" filepath="$PROJECT_DIR$/ManejoClasesObjetos/ManejoClasesObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManejoClasesPaquetes/ManejoClasesPaquetes.iml" filepath="$PROJECT_DIR$/ManejoClasesPaquetes/ManejoClasesPaquetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/clase03-1bim-furaiwam.iml" filepath="$PROJECT_DIR$/.idea/clase03-1bim-furaiwam.iml" />
+    </modules>
+  </component>
+</project>

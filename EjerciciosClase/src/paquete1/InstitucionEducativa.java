@@ -15,6 +15,8 @@ public class InstitucionEducativa {
     private int numeroAlumnos;
     private int numeroDocentes;
     private int numeroSedes;
-    
-    /*Crear los método necesarios*/
+
+
+
+        /*Crear los método necesarios*/
 }

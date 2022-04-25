@@ -15,11 +15,11 @@ public class Clinica {
     private double presupuesto;
     
     // métodos establecer para cada atributo
-    void establecerNombre(String n){
+    public void establecerNombre(String n){
         nombre = n;
     }
     
-    void establecerNumeroCamas(int n){
+    public void establecerNumeroCamas(int n){
         numeroCamas = n;
     }
     
